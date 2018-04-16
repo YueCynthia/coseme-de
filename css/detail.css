@@ -1,0 +1,68 @@
+.detail_body{
+	float: right;
+}
+.detail_img{
+	position: relative;
+	width: 350px;
+	height: 350px;
+}
+.detail_img img{
+	position: absolute;
+	left: 0;
+	top:0;
+	width: 350px;
+	height: 350px;
+}
+.save{
+	position: absolute;
+	left:280px;
+	top: 286px;
+	font-size: 20px;
+	color: #fff;
+	z-index: 1;
+}
+.detail_intro{
+	margin:50px 100px 0 0;
+}
+.detail_intro h1{
+	margin:5px 0;
+}
+.detail_intro a{
+	display: block;
+	margin:15px 0;
+}
+.detail_intro a:hover{
+	color:#903;
+}
+.detail_intro p{
+	margin:15px 0;
+}
+.detail_intro p img,.detail_intro p a{
+	display: inline-block;
+}
+.detail{
+	width: 166px;
+}
+.price{
+	width: 128px;
+}
+.detail_bottom{
+	margin:30px 100px 50px 0;
+}
+.detail_bottom table tr td{
+	padding: 0 5px;
+}
+.detail_bottom .bor_dash td{
+	border-bottom: 1px dashed #ccc;
+	padding-bottom: 5px;
+}
+.pink{
+	color: #F99;
+}
+.c903{
+	color: #903;
+}
+.line_th{
+	text-decoration: line-through;
+}
+

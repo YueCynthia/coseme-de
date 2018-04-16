@@ -1,0 +1,113 @@
+@font-face {font-family: "iconfont";
+  src: url('http://at.alicdn.com/t/font_623330_api4t1lval7kfbt9.eot'); 
+  src: url('http://at.alicdn.com/t/font_623330_api4t1lval7kfbt9.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_623330_api4t1lval7kfbt9.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_623330_api4t1lval7kfbt9.ttf') format('truetype'), 
+  url('http://at.alicdn.com/t/font_623330_api4t1lval7kfbt9.svg?') format('svg'); 
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:22px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-paypal{
+	color: #fff;
+}
+.icon-zhifubao{
+	color: #00A0E8;
+}
+.register_body{
+	margin-left: 20px;
+	height: 480px;
+}
+
+.register_main{
+	width: 680px;
+	float: left;
+	margin-top:43px;
+	padding-left:60px;
+	font-size: 11px;
+    color: #93846f;
+	border-bottom: 1px solid #ccc;
+    line-height: 14px;
+}
+.register_main p{
+	margin: 10px 0;
+}
+.register_main p label{
+	margin:50px;
+}
+.register_main input{
+	width: 370px;
+    padding: 2px;
+    height: 23px;
+    font-size: 12px;
+    line-height: 14px;
+    color: #666;
+    border: 1px dotted #93846f;
+}
+
+.register_form .login_warn{
+	color:#903;
+	margin-left: 140px;
+	display: none;
+}
+.flexbox{
+	display: flex;
+	height: 22px;
+	align-items: center;
+}
+.flexbox a{
+	display: block;
+	font-size: 11px;
+    color: #93846f;
+}
+.login_button{
+	width: 79px;
+	height: 21px;
+	background: url(../images/register/login_now_01.gif);
+	margin:0 10px 0 130px;
+}
+.login_button:hover{
+	background: url(../images/register/login_now_02.gif);
+}
+.flexbox a:hover{
+	color: #903;
+}
+.other_way{
+	margin:50px 0 80px 0;
+}
+.login_links{
+	display: flex;
+	align-items: center;
+	margin:27px 0 0 44px; 
+}
+.login_links a{
+	display: flex;
+	width: 154px;
+	height: 34px;
+	border-radius: 3px;
+	align-items: center;
+	border:1px solid #aaa;
+	padding-left:5px;
+	font-size: 14px;
+    font-weight: 400;
+	font-family: "微软雅黑";
+}
+.paypal{
+	margin-right: 20px;
+	background-color: #00A0E8;
+	color: #fff;
+}
+.alipay{
+	background-color: #fff;
+}
+.login_links span{
+	line-height: 30px;
+	border-left:1px solid #aaa;
+	padding-left:10px;
+	margin-left: 5px; 
+}

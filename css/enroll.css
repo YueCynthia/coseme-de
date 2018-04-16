@@ -1,0 +1,177 @@
+.enroll_info{
+	float: left;
+	width:680px;
+}
+
+.marginl40{
+	margin-left: 40px;
+}
+.marginl10{
+	margin-left: 10px;
+}
+.is_vip{
+	text-align: right;
+}
+.is_vip a{
+	font-size: 11px;
+    color: #93846f;
+    line-height: 14px;
+}
+.is_vip a:hover{
+	color: #903;
+}
+
+.warn_tips{
+	display: none;
+	font-size: 12px;
+    color: #903;
+    line-height: 16px;
+}
+.warn_tips+ul li{
+	display: none;
+	font-size: 12px;
+    color: #903;
+    line-height: 16px;
+	list-style-type:disc;
+	list-style-position:inside;
+	margin-left: 15px;
+}
+.row_tit{
+	margin: 10px 0;
+}
+.uname select{
+	width: 58px;
+	padding: 2px;
+    height: 22px;
+    margin-right: 4px;
+}
+.uname input{
+	width: 306px;
+    padding: 2px;
+    font-size: 12px;
+    line-height: 14px;
+    color: #93846f;
+    margin-bottom: 4px;
+}
+.location select{
+	width: 376px;
+    padding: 2px;
+    height: 22px;
+	font-size: 12px;
+    line-height: 14px;
+    color: #93846f;
+}
+.identify_form p{
+	margin:4px 0;
+}
+.identify_form p span{
+	float: left;
+}
+.identify_form p input{
+	float: right;
+	width: 370px;
+    padding: 2px;
+    font-size: 12px;
+    line-height: 14px;
+    color: #93846f;
+    height: 14px;
+}
+.rule span{
+	display: block;
+	float: left;
+	margin-right: 3px
+}
+.rule div{
+	width: 615px;
+	float: left;
+	font-size: 11px;
+    color: #93846f;
+    line-height: 16px;
+    vertical-align: middle;
+}
+.rule .red{
+	color: red;
+}
+.favourite select{
+	width: 610px;
+	font-size: 12px;
+    line-height: 14px;
+    color: #93846f;
+    height: 20px;
+    margin-bottom: 3px;
+}
+.clause{
+	margin-bottom: 10px;
+}
+.other_favourite input{
+	width: 606px;
+	font-size: 12px;
+    line-height: 14px;
+    color: #93846f;
+}
+.clause_content{
+	width: 602px;
+	height: 386px;
+	overflow-y:scroll;
+	border:1px solid #ccc;
+	padding: 8px;
+}
+.clause_content .margin10{
+	margin:10px 0;
+}
+.clause_content .clause_tit{
+	margin:10px 0;
+}
+.clause_content ul{
+	padding-left: 20px;
+}
+.clause_content ul li{
+	list-style-type:disc;
+}
+.clause_link a{
+	text-decoration: underline;
+	color: blue;
+} 
+.identifying_code {
+	position: relative;
+	height:122px; 
+}
+.code_img{
+	position: absolute;
+	left:210px;
+	top: 20px;
+	display: flex;
+	align-items: center;
+}
+.code_img span{
+	margin-right: 10px;
+}
+.code_img b{
+	cursor: pointer;
+}
+.id_code_in{
+	text-align: center;
+}
+.id_code_in input{
+	font-size: 12px;
+    line-height: 14px;
+    color: #93846f;
+    width: 220px;
+    height: 14px;
+}
+.code_text{
+	text-align: center;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px dashed #ccc;
+}
+#sub_btn{
+	display: block;
+	width: 45px;
+	height: 21px;
+	margin-bottom: 20px;
+	background: url(../images/enroll/submit_01.gif);
+}
+#sub_btn:hover{
+	background: url(../images/enroll/submit_02.gif);
+}

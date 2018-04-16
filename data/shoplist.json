@@ -1,0 +1,413 @@
+{
+	"newlist":[
+			{
+				"id":"new101",
+				"src":"22068_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Guerlain<span> 嬌兰",
+				"intro":"御庭兰花 亮白美肌防晒霜 SPF50 / PA+++",
+				"cny":"742.00",
+				"usd":"742.00",
+				"save":"40%"
+			},
+			{
+				"id":"new102",
+				"src":"22155_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>COSME DECORTE<span> 黛珂",
+				"intro":"白檀升级版保湿化妆水<br>&nbsp;",
+				"cny":"556.00",
+				"usd":"87.00",
+				"save":"20%"
+			},
+			{
+				"id":"new103",
+				"src":"22164_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Gucci<span>",
+				"intro":"罪爱 惹火男士香水<br>&nbsp;",
+				"cny":"550.00",
+				"usd":"86.00",
+				"save":"30%"
+			},
+			{
+				"id":"new104",
+				"src":"22128_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>The Organic Pharmacy<span>",
+				"intro":"抗氧化修护面霜<br>&nbsp;",
+				"cny":"435.00",
+				"usd":"68.00",
+				"save":"15%"
+			},
+			{
+				"id":"new105",
+				"src":"22111_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>CAUDALIE<span> 欧缇丽",
+				"intro":"Premier Cru 葡萄籽尊贵时光逆转 眼霜",
+				"cny":"442.00",
+				"usd":"69.00",
+				"save":"20%"
+			},
+			{
+				"id":"new106",
+				"src":"22085_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Origins<span> 悦木之源",
+				"intro":"水仙焕活 精萃霜<br>&nbsp;",
+				"cny":"544.00",
+				"usd":"85.00",
+				"save":"20%"
+			},
+			{
+				"id":"new107",
+				"src":"2346_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Chloé<span>",
+				"intro":"女士淡香精<br>&nbsp;",
+				"cny":"965.00",
+				"usd":"151.00",
+				"save":"10%"
+			},
+			{
+				"id":"new108",
+				"src":"22060_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Dermalogica<span> 德美乐嘉",
+				"intro":"防晒保湿霜 SPF 20<br>&nbsp;",
+				"cny":"339.00",
+				"usd":"53.00",
+				"save":"10%"
+			},
+			{
+				"id":"new109",
+				"src":"22125_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>LUNASOL<span> 日月晶采",
+				"intro":"煦光净化四色眼影组<br>&nbsp;",
+				"cny":"281.00",
+				"usd":"44.00",
+				"save":"30%"
+			},
+			{
+				"id":"new110",
+				"src":"8141_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Christian Dior<span> 迪奥",
+				"intro":"Dior Addict 诱惑焕彩润唇膏",
+				"cny":"218.00",
+				"usd":"34.00",
+				"save":"19%"
+			}
+			],
+	"mostlist":[
+			{
+				"id":"new101",
+				"src":"22085_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Origins<span> 悦木之源",
+				"intro":"水仙焕活 精萃霜<br>&nbsp;",
+				"cny":"544.00",
+				"usd":"85.00",
+				"save":"20%"
+				
+			},
+			{
+				"id":"new102",
+				"src":"22155_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>COSME DECORTE<span> 黛珂",
+				"intro":"白檀升级版保湿化妆水<br>&nbsp;",
+				"cny":"556.00",
+				"usd":"87.00",
+				"save":"20%"
+			},
+			{
+				"id":"new103",
+				"src":"22164_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Gucci<span>",
+				"intro":"罪爱 惹火男士香水<br>&nbsp;",
+				"cny":"550.00",
+				"usd":"86.00",
+				"save":"30%"
+			},
+			{
+				"id":"new104",
+				"src":"22128_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>The Organic Pharmacy<span>",
+				"intro":"抗氧化修护面霜<br>&nbsp;",
+				"cny":"435.00",
+				"usd":"68.00",
+				"save":"15%"
+			},
+			{
+				"id":"new105",
+				"src":"22111_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>CAUDALIE<span> 欧缇丽",
+				"intro":"Premier Cru 葡萄籽尊贵时光逆转 眼霜",
+				"cny":"442.00",
+				"usd":"69.00",
+				"save":"20%"
+			},
+			{
+				"id":"new106",
+				"src":"22068_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Guerlain<span> 嬌兰",
+				"intro":"御庭兰花 亮白美肌防晒霜 SPF50 / PA+++",
+				"cny":"742.00",
+				"usd":"742.00",
+				"save":"40%"
+			},
+			{
+				"id":"new107",
+				"src":"2346_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Chloé<span>",
+				"intro":"女士淡香精<br>&nbsp;",
+				"cny":"965.00",
+				"usd":"151.00",
+				"save":"10%"
+			},
+			{
+				"id":"new108",
+				"src":"22060_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Dermalogica<span> 德美乐嘉",
+				"intro":"防晒保湿霜 SPF 20<br>&nbsp;",
+				"cny":"339.00",
+				"usd":"53.00",
+				"save":"10%"
+			},
+			{
+				"id":"new109",
+				"src":"22125_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>LUNASOL<span> 日月晶采",
+				"intro":"煦光净化四色眼影组<br>&nbsp;",
+				"cny":"281.00",
+				"usd":"44.00",
+				"save":"30%"
+			},
+			{
+				"id":"new110",
+				"src":"8141_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Christian Dior<span> 迪奥",
+				"intro":"Dior Addict 诱惑焕彩润唇膏",
+				"cny":"218.00",
+				"usd":"34.00",
+				"save":"19%"
+			}
+			],
+	"naturallist":[
+			{
+				"id":"new101",
+				"src":"8141_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Christian Dior<span> 迪奥",
+				"intro":"Dior Addict 诱惑焕彩润唇膏",
+				"cny":"218.00",
+				"usd":"34.00",
+				"save":"19%"
+				
+			},
+			{
+				"id":"new102",
+				"src":"22155_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>COSME DECORTE<span> 黛珂",
+				"intro":"白檀升级版保湿化妆水<br>&nbsp;",
+				"cny":"556.00",
+				"usd":"87.00",
+				"save":"20%"
+			},
+			{
+				"id":"new103",
+				"src":"22164_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Gucci<span>",
+				"intro":"罪爱 惹火男士香水<br>&nbsp;",
+				"cny":"550.00",
+				"usd":"86.00",
+				"save":"30%"
+			},
+			{
+				"id":"new104",
+				"src":"22128_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>The Organic Pharmacy<span>",
+				"intro":"抗氧化修护面霜<br>&nbsp;",
+				"cny":"435.00",
+				"usd":"68.00",
+				"save":"15%"
+			},
+			{
+				"id":"new105",
+				"src":"22111_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>CAUDALIE<span> 欧缇丽",
+				"intro":"Premier Cru 葡萄籽尊贵时光逆转 眼霜",
+				"cny":"442.00",
+				"usd":"69.00",
+				"save":"20%"
+			},
+			{
+				"id":"new106",
+				"src":"22085_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Origins<span> 悦木之源",
+				"intro":"水仙焕活 精萃霜<br>&nbsp;",
+				"cny":"544.00",
+				"usd":"85.00",
+				"save":"20%"
+			},
+			{
+				"id":"new107",
+				"src":"2346_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Chloé<span>",
+				"intro":"女士淡香精<br>&nbsp;",
+				"cny":"965.00",
+				"usd":"151.00",
+				"save":"10%"
+			},
+			{
+				"id":"new108",
+				"src":"22060_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Dermalogica<span> 德美乐嘉",
+				"intro":"防晒保湿霜 SPF 20<br>&nbsp;",
+				"cny":"339.00",
+				"usd":"53.00",
+				"save":"10%"
+			},
+			{
+				"id":"new109",
+				"src":"22125_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>LUNASOL<span> 日月晶采",
+				"intro":"煦光净化四色眼影组<br>&nbsp;",
+				"cny":"281.00",
+				"usd":"44.00",
+				"save":"30%"
+			},
+			{
+				"id":"new110",
+				"src":"22068_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Guerlain<span> 嬌兰",
+				"intro":"御庭兰花 亮白美肌防晒霜 SPF50 / PA+++",
+				"cny":"742.00",
+				"usd":"742.00",
+				"save":"40%"
+			}
+			],
+	"complementlist":[
+			{
+				"id":"new101",
+				"src":"22155_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>COSME DECORTE<span> 黛珂",
+				"intro":"白檀升级版保湿化妆水<br>&nbsp;",
+				"cny":"556.00",
+				"usd":"87.00",
+				"save":"20%"
+			},
+			{
+				"id":"new102",
+				"src":"22068_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Guerlain<span> 嬌兰",
+				"intro":"御庭兰花 亮白美肌防晒霜 SPF50 / PA+++",
+				"cny":"742.00",
+				"usd":"742.00",
+				"save":"40%"
+				
+			},
+			{
+				"id":"new103",
+				"src":"22164_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Gucci<span>",
+				"intro":"罪爱 惹火男士香水<br>&nbsp;",
+				"cny":"550.00",
+				"usd":"86.00",
+				"save":"30%"
+			},
+			{
+				"id":"new104",
+				"src":"22128_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>The Organic Pharmacy<span>",
+				"intro":"抗氧化修护面霜<br>&nbsp;",
+				"cny":"435.00",
+				"usd":"68.00",
+				"save":"15%"
+			},
+			{
+				"id":"new105",
+				"src":"22111_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>CAUDALIE<span> 欧缇丽",
+				"intro":"Premier Cru 葡萄籽尊贵时光逆转 眼霜",
+				"cny":"442.00",
+				"usd":"69.00",
+				"save":"20%"
+			},
+			{
+				"id":"new106",
+				"src":"22085_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Origins<span> 悦木之源",
+				"intro":"水仙焕活 精萃霜<br>&nbsp;",
+				"cny":"544.00",
+				"usd":"85.00",
+				"save":"20%"
+			},
+			{
+				"id":"new107",
+				"src":"2346_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Chloé<span>",
+				"intro":"女士淡香精<br>&nbsp;",
+				"cny":"965.00",
+				"usd":"151.00",
+				"save":"10%"
+			},
+			{
+				"id":"new108",
+				"src":"22060_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Dermalogica<span> 德美乐嘉",
+				"intro":"防晒保湿霜 SPF 20<br>&nbsp;",
+				"cny":"339.00",
+				"usd":"53.00",
+				"save":"10%"
+			},
+			{
+				"id":"new109",
+				"src":"22125_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>LUNASOL<span> 日月晶采",
+				"intro":"煦光净化四色眼影组<br>&nbsp;",
+				"cny":"281.00",
+				"usd":"44.00",
+				"save":"30%"
+			},
+			{
+				"id":"new110",
+				"src":"8141_2.jpg",
+				"status":"icon_new.gif",
+				"name":"<span class='wt900'>Christian Dior<span> 迪奥",
+				"intro":"Dior Addict 诱惑焕彩润唇膏",
+				"cny":"218.00",
+				"usd":"34.00",
+				"save":"19%"
+			}
+			]
+}

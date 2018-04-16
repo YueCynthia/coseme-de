@@ -1,0 +1,203 @@
+.slid_down{
+	width: 165px;
+	height: 290px;
+}
+.banner{
+	width:910px;
+	height: 360px;
+	position: relative;
+}
+.banner img{
+	position: absolute;
+}
+.cir_num div{
+	width:10px;
+	height: 10px;
+	border-radius: 50%;
+	background: #000;
+	opacity: .3;
+	z-index: 999;
+	position: absolute;
+	top: 330px;
+}
+.cir_num div:nth-child(1){
+	left: 800px;
+	opacity:0.8;
+}
+.cir_num div:nth-child(2){
+	left: 820px;
+}
+.cir_num div:nth-child(3){
+	left: 840px;
+}
+.cir_num div:nth-child(4){
+	left: 860px;
+}
+
+
+.middle_wrap{
+	background: #fff;
+}
+
+
+.carousel_wrap{
+	width: 910px;
+	margin:0 auto;
+	height: 75px;
+	background: #fff;
+}
+.carousel_wrap a{
+	display: block;
+}
+.arrow_l{
+	float: left;
+	width: 29px;
+}
+.arrow_r{
+	width: 29px;
+	float: right;
+}
+.brand_wrap{
+	height: 75px;
+	width: 852px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+.brand_carousel{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.brand_carousel a{
+	position: absolute;
+}
+.jigsaw{
+	margin:0 auto;
+	border-spacing:0; 
+}
+.jigsaw td{
+	padding: 0;
+	border: none;
+}
+.tag_bar{
+	background: #93846F;
+	width:910px;
+	margin:0 auto;
+}
+.tag_bar:after{
+	display: block;
+	content: " ";
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+	display: block;
+	clear: both;
+}
+.tag_bar table{
+	float: left;
+	color: #fff;
+	width: 185px;
+}
+.tag_bar table:hover{
+	background: #9F927F;
+}
+.tag_bar table tr td:nth-last-child(1){
+	border-right: 1px dotted #ccc;
+}
+.tag_arrow{
+	position: relative;
+	margin-left: 20px;
+}
+.tag_arrow img{
+	position: absolute;
+}
+.tag_content{
+	margin:20px 0 0 20px;
+	color: #666;
+}
+.tag_content:after{
+	display: block;
+	content: " ";
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+	display: block;
+	clear: both;
+}
+
+
+
+.tag_content .checkall{
+	text-align: right;
+	font-size: 11px;
+    color: #666;
+    line-height: 15px;
+    margin:20px 20px 20px 0;
+}
+.middle_img{
+	width: 910px;
+	margin:0 auto;
+}
+
+.ensure_bar{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.ensure_bar td{
+	width: 280px;
+	padding-left: 20px;
+	border-right: 1px solid #93846f;
+}
+.ensure_bar img{
+	float: left;
+}
+.ensure_bar div{
+	float: left;
+	margin-left: 20px;
+}
+.ensure_bar span{
+	font-size: 16px;
+	line-height: 26px;
+    color: #93846f;
+}
+.ensure_bar .noborder{
+	border: none;
+}
+
+.conversion{
+	margin-top: 30px;
+	text-align: center;
+    color: #666;
+    line-height: 16px;
+}
+.conversion select{
+    line-height: 14px;
+    color: #666;
+    width: 200px;
+    height: 20px;
+    margin:0 5px;
+}
+.pay_bar p{
+
+	margin-top: 5px;
+	text-align: center;
+    color: #666;
+    line-height: 16px;
+}
+.pay_icon{
+	width: 670px;
+	margin:10px auto 20px auto;
+}
+.pay_icon:after{
+	display: block;
+	content: " ";
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+	display: block;
+	clear: both;
+}
+.pay_icon img{
+	float: left;
+}
